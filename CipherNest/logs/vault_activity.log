@@ -1,0 +1,5 @@
+2025-10-27 01:03:24,962 - INFO - New encryption key generated.
+2025-10-27 01:04:01,503 - INFO - Encrypted file: C:\Users\Lenovo\PycharmProjects\PythonProject2\secret.txt -> vault\secret.txt.encrypted
+2025-10-27 01:21:42,037 - INFO - New encryption key generated.
+2025-10-27 01:21:45,977 - INFO - Encrypted file: C:\Users\Lenovo\PycharmProjects\PythonProject2\secret.txt -> vault\secret.txt.encrypted
+2025-10-27 01:29:17,024 - INFO - Decrypted file: C:\Users\Lenovo\PycharmProjects\PythonProject2\CipherNest\vault\secret.txt.encrypted -> vault\secret.txt.decrypted
